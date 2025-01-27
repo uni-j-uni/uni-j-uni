@@ -61,6 +61,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/uni-j-uni/uni-j-uni/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/uni-j-uni/uni-j-uni/blob/output/github-snake-dark.svg" width="100%" />
 
 ###
